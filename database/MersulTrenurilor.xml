@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panou>
+    <tren tren_Id="IR234">
+        <statie nume_statie="Iasi">
+            <sosire>11:33</sosire>
+            <plecare>12:00</plecare>
+            <inainte>0</inainte>
+            <intarziere>0</intarziere>
+        </statie>
+        <statie nume_statie="Vaslui">
+            <sosire>13:03</sosire>
+            <plecare>13:04</plecare>
+            <inainte>0</inainte>
+            <intarziere>0</intarziere>
+        </statie>
+        <statie nume_statie="Brasov">
+            <sosire>13:33</sosire>
+            <plecare>15:05</plecare>
+            <inainte>0</inainte>
+            <intarziere>0</intarziere>
+        </statie>
+    </tren>
+    <tren tren_Id="IRN68">
+        <statie nume_statie="Timisoara">
+            <sosire>2:33</sosire>
+            <plecare>3:00 </plecare>
+            <inainte>0</inainte>
+            <intarziere>0</intarziere>
+        </statie>
+        <statie nume_statie="Suceava">
+            <sosire>7:03</sosire>
+            <plecare>13:04</plecare>
+            <inainte>0</inainte>
+            <intarziere>0</intarziere>
+        </statie>
+        <statie nume_statie="Iasi">
+            <sosire>13:33</sosire>
+            <plecare>15:05</plecare>
+            <inainte>0</inainte>
+            <intarziere>60</intarziere>
+        </statie>
+    </tren>
+    <tren tren_Id="R912">
+        <statie nume_statie="Iasi">
+            <sosire>13:30</sosire>
+            <plecare>15:45 </plecare>
+            <inainte>0</inainte>
+            <intarziere>0</intarziere>
+        </statie>
+        <statie nume_statie="Pascani">
+            <sosire>17:08</sosire>
+            <plecare>17:45</plecare>
+            <inainte>0</inainte>
+            <intarziere>0</intarziere>
+        </statie>
+        <statie nume_statie="Timisesti">
+            <sosire>18:08</sosire>
+            <plecare>18:09</plecare>
+            <inainte>0</inainte>
+            <intarziere>0</intarziere>
+        </statie>
+        <statie nume_statie="TarguNeamt">
+            <sosire>19:00</sosire>
+            <plecare>11:16</plecare>
+            <inainte>0</inainte>
+            <intarziere>0</intarziere>
+        </statie>
+    </tren>
+</panou>
